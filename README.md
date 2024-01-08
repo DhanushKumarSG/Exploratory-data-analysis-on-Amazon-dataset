@@ -1,0 +1,2 @@
+# Exploratory Data Analysis of Amazon Sales Data to chacek the buyers preference
+Exploratory Data Analysis (EDA) helps uncover buyer preferences in Amazon Sales Data by analyzing patterns, trends, and correlations within the data, utilizing statistical methods and visualizations to identify popular products, customer behavior, and purchase patterns. Commonly used tools and libraries for EDA include Python's Pandas, Matplotlib, Seaborn, and statistical techniques like summary statistics, count, histograms, and scatter plots.
